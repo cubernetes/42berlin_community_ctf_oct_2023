@@ -1,4 +1,4 @@
-# 42 Berlin Weekend Community CTF Challenge 30.09.2023/01.10.2023
+# 42 Berlin Weekend (30.09.2023/01.10.2023) Community CTF Challenge Submissions
 
 ```
 64_bottles_of_beer:    Very Easy
