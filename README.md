@@ -8,8 +8,11 @@
 pasted:                Intermediate
 ZIPF:                  Hard
 in_plain_sight:        Very Hard
-fferbu:                Very Hard
+fferbu:                Very Hard*
 ```
 
 One hint for one of the "Very Hard" Challenges:
 00, 01, 10, 11
+
+\* All the difficulty ratings are subjective and based on my perceived skill-level
+of the peers that I know in the field of hacking.
