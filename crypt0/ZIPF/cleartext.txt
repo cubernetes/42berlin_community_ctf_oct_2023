@@ -1,0 +1,21 @@
+42CTF is a platform dedicated to hosting Capture The Flag (CTF) challenges.
+Currently, "asarandi2650" leads their leaderboard, with various other
+competitors following closely in the rankings. Recently, the platform announced
+a collaboration with 42 Entrepreneurs for an event named the Startup Pizza
+Night, focusing on cybersecurity. As part of this partnership, they're
+organizing a challenge titled "Hack your Pizza" where participants can win
+tickets to the event. Another unique event they've introduced is the "Speed
+Dating CTF". The flag starts with 42ctf. Then comes an opening brace. After
+that, the following lowercase string: frequency analysis is awesome. Remember
+to replace the spaces with underscores. After that, the closing brace. That is
+the flag. This is a 4-hour competition where participants can either come with
+a chosen partner or let the organizers pair them up. For students of the 42
+school, there's an opportunity to win a spot for an event called leHack through
+a special 4-hour CTF. On the development side, 42CTF has made their platform's
+source code accessible on Gitea, encouraging community contributions. They've
+also refreshed their scoring system, opting for a dynamic approach where points
+for challenges decrease as more people solve them. Currently, the platform
+boasts 8516 flags and a community of 1886 users. Anyone interested in reaching
+out can contact them at their email, 42ctf@protonmail.com, or connect through
+their social media channels on Discord, Twitter, and LinkedIn. They also accept
+donations via PayPal. The website credits its creation to ix-56h.
